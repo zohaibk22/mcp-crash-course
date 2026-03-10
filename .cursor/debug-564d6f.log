@@ -1,0 +1,6 @@
+{"sessionId": "564d6f", "runId": "pre-fix", "hypothesisId": "H_session_lifecycle", "location": "main.py:48", "message": "Before agent.ainvoke with open MCP sessions", "data": {"math_tool_count": 4, "weather_tool_count": 1}, "timestamp": 1773159123662}
+{"sessionId": "564d6f", "runId": "pre-fix", "hypothesisId": "H_session_lifecycle", "location": "main.py:60", "message": "After agent.ainvoke completed", "data": {}, "timestamp": 1773159125783}
+{"sessionId": "564d6f", "runId": "pre-fix", "hypothesisId": "H_session_lifecycle", "location": "main.py:48", "message": "Before agent.ainvoke with open MCP sessions", "data": {"math_tool_count": 4, "weather_tool_count": 1}, "timestamp": 1773159831540}
+{"sessionId": "564d6f", "runId": "pre-fix", "hypothesisId": "H_session_lifecycle", "location": "main.py:60", "message": "After agent.ainvoke completed", "data": {}, "timestamp": 1773159833706}
+{"sessionId": "564d6f", "runId": "pre-fix", "hypothesisId": "H_session_lifecycle", "location": "main.py:48", "message": "Before agent.ainvoke with open MCP sessions", "data": {"math_tool_count": 4, "weather_tool_count": 1}, "timestamp": 1773160255673}
+{"sessionId": "564d6f", "runId": "pre-fix", "hypothesisId": "H_session_lifecycle", "location": "main.py:60", "message": "After agent.ainvoke completed", "data": {}, "timestamp": 1773160257974}
